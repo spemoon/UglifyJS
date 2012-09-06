@@ -1,1 +1,0 @@
-主要是在node的uglifyjs模块的基础上对js文件进行批量的压缩处理，详见compile.js
